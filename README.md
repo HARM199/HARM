@@ -23,11 +23,6 @@ To run the project on any operating system, make sure you have:
 - Tkinter library (usually pre-installed with Python)  
 - Pillow library for image display  
 
-Install Pillow with:
-
-                pip install pillow
-
-
 ✅ On Kali Linux:
 The program runs directly if Python is already installed.
 
