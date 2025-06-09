@@ -2,63 +2,53 @@
 
 ![welcome](https://github.com/user-attachments/assets/c9de7075-f268-4f29-8a78-e05363e8c461)
 
-HARM هو تطبيق واجهة رسومية تفاعلية باستخدام Tkinter تم تطويره بلغة Python، يهدف لتجميع موارد متعددة في مجال الأمن السيبراني من فيديوهات، أدوات، مقالات، كورسات مسربة، الذكاء الاصطناعي، تحليل الثغرات، المحتوى البصري وغيرهم، في مكان واحد منظم وسهل الاستخدام.
+**HARM** is an interactive graphical user interface application built with Tkinter and developed in Python. It aims to gather multiple cybersecurity resources such as videos, tools, articles, leaked courses, artificial intelligence, vulnerability analysis, visual content, and more—all organized in one easy-to-use platform.
 
-💡 الميزات الرئيسية
-تنظيم المحتوى في أقسام متعددة
+## 💡 Key Features
 
-عرض الصور والوصف وروابط الفيديوهات أو الأدوات
+- Organizes content into multiple categories  
+- Displays images, descriptions, and links to videos or tools  
+- Elegant and user-friendly graphical interface  
+- Supports running on Windows and Linux (Kali Linux)  
+- Showcases videos, hacking tools, articles, deep web content, threat analysis, and more...
 
-واجهة رسومية أنيقة وسهلة الاستخدام
+## 📦 Requirements
 
-يدعم التشغيل على Windows وLinux (Kali Linux)
+To run the project on any operating system, make sure you have:
 
-عرض مقاطع فيديو، أدوات اختراق، مقالات، محتوى الديب ويب، تحليل تهديدات، والمزيد...
+### ✅ Basic Requirements:
+- Python 3.8 or newer  
+- Tkinter library (usually pre-installed with Python)  
+- Pillow library for image display  
 
-📦 المتطلبات
-لتشغيل المشروع على أي نظام تشغيل، تأكد من توفر:
-
-✅ المتطلبات الأساسية:
-Python 3.8 أو أحدث
-
-مكتبة tkinter (تأتي غالبًا مثبتة مع Python)
-
-مكتبة Pillow لعرض الصور
+Install Pillow with:
 
 pip install pillow
-✅ على Kali Linux:
-البرنامج يعمل مباشرة إذا كان Python مثبت مسبقًا.
 
-قد تحتاج إلى تثبيت Tkinter:
+
+✅ On Kali Linux:
+The program runs directly if Python is already installed.
+
+You may need to install Tkinter:
 
 sudo apt update
 sudo apt install python3-tk
-✅ على Windows:
-تأكد من تثبيت Python مع خيار "Add to PATH".
 
-افتح CMD ونفذ:
+✅ On Windows:
+Make sure Python is installed with the “Add to PATH” option enabled.
+
+Open CMD and run:
 
 pip install pillow
-🚀 طريقة التشغيل
+
 python3 harm.py
 
-📂 بنية الملفات
-HARM/
-│
-├── harm.py                  ← الكود الرئيسي
-├── images/
-│   └── welcome.png          ← صورة الخلفية الرئيسية
-│   └── red_icon.png         ← أيقونة صغيرة
-├── data/
-│   ├── dark_web.json
-│   ├── harm_videos.json
-│   ├── leaked_courses.json
-│   └── ... (ملفات البيانات)
-└── README.md                ← هذا الملف
 
-🔗 روابط التواصل الاجتماعي
-تابعني لمزيد من المشاريع والمحتوى:
+ Social Media Links
+Follow me for more projects and content:
 
 https://www.youtube.com/@Harm1903
-
 https://t.me/Harm2890
+
+                                                                            "With you was HARM. Peace, mercy, and blessings of God be upon you."
+
