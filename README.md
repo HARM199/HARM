@@ -31,20 +31,79 @@ Install Pillow with:
 ✅ On Kali Linux:
 The program runs directly if Python is already installed.
 
-You may need to install Tkinter:
+      sudo apt update && sudo apt upgrade -y
 
-                sudo apt update
-           sudo apt install python3-tk
+      sudo apt install python3 python3-pip -y
+
+      sudo apt install python3-tk -y
+
+      pip3 install pillow
+
+      sudo apt install git -y
+
+     git clone https://github.com/HARM199/HARM.git
+    
+    cd HARM
+    
+    python3 harm.py
+
+
+           
 
 ✅ On Windows:
-Make sure Python is installed with the “Add to PATH” option enabled.
+If Git is not installed on your system:
 
-Open CMD and run:
+Go to this website: https://git-scm.com/downloads
 
-         pip install pillow
+Download the Windows version and install it normally (just like any other program).
 
-           python3 harm.py
+After installation, open PowerShell or CMD and check if it works by typing:
 
+    git --version
+
+✅ 2. Install Python
+
+If you don’t have Python:
+
+Download it from: https://www.python.org/downloads/windows/
+
+During installation, make sure to check the option: ✅ “Add Python to PATH”
+
+✅ 3. Install required libraries
+
+Open PowerShell or CMD and run these commands one by one:
+
+     pip install pillow
+
+     python -m pip install tk
+
+✅ 4. Download the HARM project from GitHub
+
+     git clone https://github.com/HARM199/HARM.git
+     
+     cd HARM
+
+✅ 5. Modify the image path for welcome.png
+
+Open the file harm.py for editing using Notepad:
+
+     notepad harm.py
+Then find this line (usually around line 186):
+
+      self.original_bg_image = Image.open("/home/kali/Desktop/HARM/images/welcome.png")
+And change it to:
+
+      self.original_bg_image = Image.open("images/welcome.png")
+
+✅ 6. Run the project
+
+After saving the changes run:
+
+    python harm.py
+
+      
+     
+     
 
  Social Media Links
 Follow me for more projects and content:
