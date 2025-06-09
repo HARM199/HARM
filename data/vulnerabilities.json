@@ -1,0 +1,296 @@
+[
+    {
+        "title": "DeHashed",
+        "description": "Aggregator of leaked credentials from recent hacks.",
+        "category": "Breaches",
+        "link": "https://www.dehashed.com/"
+    },
+    {
+        "title": "Have I Been Pwned",
+        "description": "Check if your email or phone was exposed in data breaches.",
+        "category": "Breaches",
+        "link": "https://haveibeenpwned.com/"
+    },
+    {
+        "title": "CVE Details",
+        "description": "Comprehensive database of Common Vulnerabilities and Exposures.",
+        "category": "Vulnerabilities",
+        "link": "https://www.cvedetails.com/"
+    },
+    {
+        "title": "Exploit Database",
+        "description": "Archive of exploits and vulnerable software.",
+        "category": "Exploits",
+        "link": "https://www.exploit-db.com/"
+    },
+    {
+        "title": "NVD (National Vulnerability Database)",
+        "description": "U.S. government repository of vulnerability management data.",
+        "category": "Vulnerabilities",
+        "link": "https://nvd.nist.gov/"
+    },
+    {
+        "title": "SecurityTrails",
+        "description": "DNS and domain intelligence platform with historical data.",
+        "category": "Reconnaissance",
+        "link": "https://securitytrails.com/"
+    },
+    {
+        "title": "Shodan",
+        "description": "Search engine for internet-connected devices and vulnerabilities.",
+        "category": "IoT/OT",
+        "link": "https://www.shodan.io/"
+    },
+    {
+        "title": "GreyNoise",
+        "description": "Analyzes internet scanning traffic to identify threats.",
+        "category": "Threat Intelligence",
+        "link": "https://www.greynoise.io/"
+    },
+    {
+        "title": "Vulners",
+        "description": "Search engine for vulnerabilities in software and hardware.",
+        "category": "Vulnerabilities",
+        "link": "https://vulners.com/"
+    },
+    {
+        "title": "LeakIX",
+        "description": "Index of publicly leaked databases and network information.",
+        "category": "Breaches",
+        "link": "https://leakix.net/"
+    },
+    {
+        "title": "Packet Storm Security",
+        "description": "Daily updates on vulnerabilities, exploits, and advisories.",
+        "category": "Advisories",
+        "link": "https://packetstormsecurity.com/"
+    },
+    {
+        "title": "Zero Day Initiative",
+        "description": "Bug bounty program publishing disclosed vulnerabilities.",
+        "category": "Zero-Days",
+        "link": "https://www.zerodayinitiative.com/"
+    },
+    {
+        "title": "VirusTotal",
+        "description": "Analyzes suspicious files and URLs for malware.",
+        "category": "Malware Analysis",
+        "link": "https://www.virustotal.com/"
+    },
+    {
+        "title": "ThreatMiner",
+        "description": "Data portal for threat intelligence and indicators.",
+        "category": "Threat Intelligence",
+        "link": "https://www.threatminer.org/"
+    },
+    {
+        "title": "Censys",
+        "description": "Platform for discovering internet devices and certificates.",
+        "category": "Reconnaissance",
+        "link": "https://censys.io/"
+    },
+    {
+        "title": "BleepingComputer",
+        "description": "News and tutorials on malware, security updates, and breaches.",
+        "category": "News",
+        "link": "https://www.bleepingcomputer.com/"
+    },
+    {
+        "title": "The Hacker News",
+        "description": "Leading cybersecurity news source covering latest threats.",
+        "category": "News",
+        "link": "https://thehackernews.com/"
+    },
+    {
+        "title": "KrebsOnSecurity",
+        "description": "Investigative cybersecurity journalism by Brian Krebs.",
+        "category": "News",
+        "link": "https://krebsonsecurity.com/"
+    },
+    {
+        "title": "Dark Reading",
+        "description": "Security news and threat research for professionals.",
+        "category": "News",
+        "link": "https://www.darkreading.com/"
+    },
+    {
+        "title": "SecurityWeek",
+        "description": "Cybersecurity news and analysis.",
+        "category": "News",
+        "link": "https://www.securityweek.com/"
+    },
+    {
+        "title": "CyberNews",
+        "description": "Security news and data breach investigations.",
+        "category": "News",
+        "link": "https://cybernews.com/"
+    },
+    {
+        "title": "ThreatPost",
+        "description": "Independent news covering vulnerabilities and cyber threats.",
+        "category": "News",
+        "link": "https://threatpost.com/"
+    },
+    {
+        "title": "Malwarebytes Labs",
+        "description": "Research and analysis on malware and cyber threats.",
+        "category": "Malware",
+        "link": "https://www.malwarebytes.com/blog"
+    },
+    {
+        "title": "Talos Intelligence",
+        "description": "Cisco's threat intelligence and research group.",
+        "category": "Threat Intelligence",
+        "link": "https://talosintelligence.com/"
+    },
+    {
+        "title": "FireEye Threat Research",
+        "description": "Reports on advanced threats and attack campaigns.",
+        "category": "Threat Intelligence",
+        "link": "https://www.mandiant.com/resources"
+    },
+    {
+        "title": "MITRE ATT&CK",
+        "description": "Knowledge base of adversary tactics and techniques.",
+        "category": "Threat Intelligence",
+        "link": "https://attack.mitre.org/"
+    },
+    {
+        "title": "AlienVault OTX",
+        "description": "Open threat intelligence exchange with community data.",
+        "category": "Threat Intelligence",
+        "link": "https://otx.alienvault.com/"
+    },
+    {
+        "title": "MISP Project",
+        "description": "Open source threat intelligence platform.",
+        "category": "Threat Intelligence",
+        "link": "https://www.misp-project.org/"
+    },
+    {
+        "title": "IBM X-Force Exchange",
+        "description": "Cloud-based threat intelligence sharing platform.",
+        "category": "Threat Intelligence",
+        "link": "https://exchange.xforce.ibmcloud.com/"
+    },
+    {
+        "title": "Pulsedive",
+        "description": "Free threat intelligence and risk assessment platform.",
+        "category": "Threat Intelligence",
+        "link": "https://pulsedive.com/"
+    },
+    {
+        "title": "Intelligence X",
+        "description": "Search engine and data archive for leaked datasets.",
+        "category": "Breaches",
+        "link": "https://intelx.io/"
+    },
+    {
+        "title": "WeLeakInfo",
+        "description": "Search engine for credential leaks (requires subscription).",
+        "category": "Breaches",
+        "link": "https://weleakinfo.com/"
+    },
+    {
+        "title": "Snort Rules",
+        "description": "Community-driven intrusion detection rules.",
+        "category": "IDS/IPS",
+        "link": "https://www.snort.org/"
+    },
+    {
+        "title": "Suricata Rules",
+        "description": "Open-source threat detection rules for Suricata IDS/IPS.",
+        "category": "IDS/IPS",
+        "link": "https://suricata.io/"
+    },
+    {
+        "title": "YARA Rules",
+        "description": "Repository for malware identification and classification.",
+        "category": "Malware",
+        "link": "https://github.com/Yara-Rules/rules"
+    },
+    {
+        "title": "Malpedia",
+        "description": "Knowledge base of malware behavior and analysis.",
+        "category": "Malware",
+        "link": "https://malpedia.caad.fkie.fraunhofer.de/"
+    },
+    {
+        "title": "VMRay Analyzer",
+        "description": "Automated malware analysis with detailed reports.",
+        "category": "Malware",
+        "link": "https://www.vmray.com/"
+    },
+    {
+        "title": "Hybrid Analysis",
+        "description": "Free malware analysis service powered by CrowdStrike.",
+        "category": "Malware",
+        "link": "https://www.hybrid-analysis.com/"
+    },
+    {
+        "title": "Any.Run",
+        "description": "Interactive malware sandbox for dynamic analysis.",
+        "category": "Malware",
+        "link": "https://any.run/"
+    },
+    {
+        "title": "URLhaus",
+        "description": "Database of malicious URLs for threat detection.",
+        "category": "Phishing",
+        "link": "https://urlhaus.abuse.ch/"
+    },
+    {
+        "title": "PhishTank",
+        "description": "Community-driven phishing site verification.",
+        "category": "Phishing",
+        "link": "https://www.phishtank.com/"
+    },
+    {
+        "title": "OpenBugBounty",
+        "description": "Coordinated vulnerability disclosure platform.",
+        "category": "Bug Bounty",
+        "link": "https://www.openbugbounty.org/"
+    },
+    {
+        "title": "HackerOne",
+        "description": "Leading bug bounty and vulnerability coordination platform.",
+        "category": "Bug Bounty",
+        "link": "https://www.hackerone.com/"
+    },
+    {
+        "title": "Bugcrowd",
+        "description": "Bug bounty platform connecting researchers with organizations.",
+        "category": "Bug Bounty",
+        "link": "https://www.bugcrowd.com/"
+    },
+    {
+        "title": "Snyk Vulnerability DB",
+        "description": "Database of vulnerabilities in open-source packages.",
+        "category": "Vulnerabilities",
+        "link": "https://snyk.io/vuln"
+    },
+    {
+        "title": "GitHub Advisory Database",
+        "description": "Security vulnerabilities from GitHub's ecosystem.",
+        "category": "Vulnerabilities",
+        "link": "https://github.com/advisories"
+    },
+    {
+        "title": "OWASP",
+        "description": "Open Web Application Security Project resources.",
+        "category": "Web Security",
+        "link": "https://owasp.org/"
+    },
+    {
+        "title": "PortSwigger Research",
+        "description": "Latest web security vulnerabilities and research.",
+        "category": "Web Security",
+        "link": "https://portswigger.net/research"
+    },
+    {
+        "title": "Full Disclosure",
+        "description": "Mailing list for vulnerability disclosures.",
+        "category": "Disclosures",
+        "link": "https://seclists.org/fulldisclosure/"
+    }
+]

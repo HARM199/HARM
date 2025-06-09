@@ -1,0 +1,308 @@
+[
+  {
+    "course_title": "Kali Linux Basics Course",
+    "videos": [
+      {
+        "title": "Kali Linux Basics Full Course ",
+        "description": "Introduction to Kali Linux and basic commands",
+        "link": "https://www.youtube.com/watch?v=VVDQzjsMyeg&list=PL62WAP_Of81T-UU6CXipfq29lg-f5XnZU",
+        "image": "/home/kali/Desktop/HARM/images/kali-basics.jpeg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v12",
+    "videos": [
+      {
+        "title": "CEH v12 - Part 1",
+        "description": "CEH v12 course - Part 1",
+        "link": "https://mega.nz/file/vtYWyIIa#9xbpl2avAfxLpD_NM6KY9PvDhP_VOz-xRZ8C3LUv3-U",
+        "image": "/home/kali/Desktop/HARM/images/cehv12.jpeg"
+      },
+      {
+        "title": "CEH v12 - Part 2",
+        "description": "CEH v12 course - Part 2",
+        "link": "https://mega.nz/file/bhRXRICS#_-xVf_fIU99dcpLCpPgceJKs_AJMIMDxEoxtMUzQCf8",
+        "image": "/home/kali/Desktop/HARM/images/cehv12.jpeg"
+      },
+      {
+        "title": "CEH v12 - Part 3",
+        "description": "CEH v12 course - Part 3",
+        "link": "https://mega.nz/file/SxRBSADI#C05O62Q-fZRbabzu15mlAYCVcwuQET9k4OIL732XnZE",
+        "image": "/home/kali/Desktop/HARM/images/cehv12.jpeg"
+      },
+      {
+        "title": "CEH v12 - Part 4",
+        "description": "CEH v12 course - Part 4",
+        "link": "https://mega.nz/file/vwZFEJJK#qj_t4LE4vfVcOcbQIN3aMls2izgJHjiAkr2nLK1G0h8",
+        "image": "/home/kali/Desktop/HARM/images/cehv12.jpeg"
+      }
+    ]
+  },
+  {
+    "course_title": "CCNA",
+    "videos": [
+      {
+        "title": "CCNA Full Course",
+        "description": "Complete CCNA Certification Course",
+        "link": "https://www.youtube.com/playlist?list=PLpwHU9rNXAVurp2h2Jh-cd4-8XjkT5osu",
+        "image": "/home/kali/Desktop/HARM/images/ccna.jpeg"
+      }
+    ]
+  },
+  {
+    "course_title": "PYTHON",
+    "videos": [
+      {
+        "title": "PYTHON full course",
+        "description": "PYTHON course",
+        "link": "https://www.youtube.com/watch?v=mvZHDpCHphk&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs",
+        "image": "/home/kali/Desktop/HARM/images/python.jpeg"
+      }
+    ]
+  },
+  {
+    "course_title": "PYTHON LIBRARIES",
+    "videos": [
+      {
+        "title": "Scapy for Network Attacks",
+        "description": "Using Scapy library for network analysis and attacks",
+        "link": "https://www.youtube.com/watch?v=YKxKnVE5FaE&list=PLhfrWIlLOoKOc3z424rgsej5P5AP8yNKR&index=1&t=16s",
+        "image": ""
+      },
+      {
+        "title": "Socket Programming",
+        "description": "Basic network operations with socket library",
+        "link": "https://www.youtube.com/watch?v=9_VFFrI7lLo",
+        "image": ""
+      },
+      {
+        "title": "Requests for HTTP",
+        "description": "Sending and receiving HTTP/HTTPS requests",
+        "link": "https://www.youtube.com/watch?v=mEGyhHu2WhM",
+        "image": ""
+      },
+      {
+        "title": "Shodan API",
+        "description": "Interacting with Shodan API for IoT device search",
+        "link": "https://www.youtube.com/watch?v=FIio_9DOFUQ",
+        "image": ""
+      },
+      {
+        "title": "Whois Lookup",
+        "description": "Getting WHOIS data for domains",
+        "link": "https://www.youtube.com/watch?v=oi68XuIpaAU",
+        "image": ""
+      },
+      {
+        "title": "DNS Analysis",
+        "description": "DNS information retrieval with dnspython",
+        "link": "https://www.youtube.com/watch?v=qYaWuv4-Qek",
+        "image": ""
+      },
+      {
+        "title": "IP and ASN Analysis",
+        "description": "IP and ASN data analysis with ipwhois",
+        "link": "https://www.youtube.com/watch?v=6rKHTPp_kgk",
+        "image": ""
+      },
+      {
+        "title": "SMTP Library",
+        "description": "Sending emails with smtplib",
+        "link": "https://www.youtube.com/watch?v=ZXfgwe2H01g",
+        "image": ""
+      },
+      {
+        "title": "Email Formatting",
+        "description": "Professional email formatting with email library",
+        "link": "https://www.youtube.com/watch?app=desktop&v=NvtjLXSY-hE",
+        "image": ""
+      },
+      {
+        "title": "Twilio for SMS",
+        "description": "Sending SMS messages with Twilio API",
+        "link": "https://www.youtube.com/watch?v=QjLtzPBy8DY",
+        "image": ""
+      },
+      {
+        "title": "Mechanize Browser",
+        "description": "Web browsing simulation with mechanize",
+        "link": "",
+        "image": ""
+      },
+      {
+        "title": "BeautifulSoup",
+        "description": "Data extraction from HTML pages",
+        "link": "https://www.youtube.com/watch?v=f1s2L2v6ChI",
+        "image": ""
+      },
+      {
+        "title": "WhatsApp Automation",
+        "description": "Automated WhatsApp messages with pywhatkit",
+        "link": "https://www.youtube.com/watch?v=AXggSvt32-k",
+        "image": ""
+      },
+      {
+        "title": "Pwntools",
+        "description": "Professional exploit development for CTFs",
+        "link": "https://www.youtube.com/watch?v=VSEQY933VlQ",
+        "image": ""
+      },
+      {
+        "title": "Impacket",
+        "description": "Working with Windows protocols (SMB, RDP, LDAP)",
+        "link": "https://www.youtube.com/watch?v=C7ehSEzlwCk",
+        "image": ""
+      },
+      {
+        "title": "Paramiko SSH",
+        "description": "SSH client for remote command execution",
+        "link": "https://www.youtube.com/watch?v=AZoj8O2Y4HE",
+        "image": ""
+      },
+      {
+        "title": "Pexpect",
+        "description": "Interactive command execution with terminals",
+        "link": "https://www.youtube.com/watch?v=KQkbUbcxgmA",
+        "image": ""
+      },
+      {
+        "title": "Hashlib",
+        "description": "Hash generation and analysis (MD5, SHA1)",
+        "link": "https://www.youtube.com/watch?v=i-h0CtKde6w",
+        "image": ""
+      },
+      {
+        "title": "Bcrypt",
+        "description": "Working with Bcrypt hashes",
+        "link": "https://www.youtube.com/watch?v=hNa05wr0DSA",
+        "image": ""
+      },
+      {
+        "title": "Passlib",
+        "description": "Password hashing and analysis library",
+        "link": "https://www.youtube.com/watch?v=U7FaYdxZLA4",
+        "image": ""
+      },
+      {
+        "title": "Cryptography",
+        "description": "Data encryption and decryption",
+        "link": "https://www.youtube.com/watch?v=qT7iV74WbGs",
+        "image": ""
+      },
+      {
+        "title": "PyCryptodome",
+        "description": "Advanced alternative to PyCrypto",
+        "link": "https://www.youtube.com/watch?v=I2KPxEq6mTs",
+        "image": ""
+      },
+      {
+        "title": "Fernet Encryption",
+        "description": "Simple secure encryption for files and data",
+        "link": "https://www.youtube.com/watch?v=B2OxVItZ_1w",
+        "image": ""
+      },
+      {
+        "title": "SSL Certificates",
+        "description": "Using SSL certificates for secure connections",
+        "link": "https://www.youtube.com/watch?v=GTRnvNe9yuY",
+        "image": ""
+      },
+      {
+        "title": "Base64 Encoding",
+        "description": "Base64 encoding and decoding",
+        "link": "https://www.youtube.com/watch?v=7gSSMy_M4HU",
+        "image": ""
+      },
+      {
+        "title": "PyShark",
+        "description": "PCAP file analysis with tshark",
+        "link": "https://www.youtube.com/watch?v=qxBKHsMhWKU",
+        "image": ""
+      },
+      {
+        "title": "WiFi Library",
+        "description": "Working with wireless networks",
+        "link": "https://www.youtube.com/watch?v=ZrRSpRfVUyk",
+        "image": ""
+      },
+      {
+        "title": "Selenium Web",
+        "description": "Browser automation for web testing",
+        "link": "https://www.youtube.com/watch?v=1kOU-i4jNas",
+        "image": ""
+      },
+      {
+        "title": "SQLMap Integration",
+        "description": "Running SQLi attacks via subprocess",
+        "link": "https://www.youtube.com/watch?v=J-wQs6ymlrc",
+        "image": ""
+      },
+      {
+        "title": "Volatility",
+        "description": "RAM memory analysis for forensics",
+        "link": "https://www.youtube.com/watch?v=Uk3DEgY5Ue8",
+        "image": ""
+      },
+      {
+        "title": "Psutil",
+        "description": "System process and resource monitoring",
+        "link": "https://www.youtube.com/watch?v=N2rJIGBm7gI",
+        "image": ""
+      },
+      {
+        "title": "Yara Python",
+        "description": "Malware file analysis and detection",
+        "link": "https://www.youtube.com/watch?v=ahYXyv89Jts",
+        "image": ""
+      },
+      {
+        "title": "Scikit-learn",
+        "description": "Training models for attack detection",
+        "link": "https://www.youtube.com/watch?v=hDKCxebp88A",
+        "image": ""
+      },
+      {
+        "title": "TensorFlow/PyTorch",
+        "description": "AI for malware and threat detection",
+        "link": "https://www.youtube.com/watch?v=i4knkO_lCCI",
+        "image": ""
+      },
+      {
+        "title": "Pandas + Matplotlib",
+        "description": "Data analysis for breaches and networks",
+        "link": "https://www.youtube.com/watch?v=czbzvMpl0I8",
+        "image": ""
+      },
+      {
+        "title": "Argparse",
+        "description": "Creating command-line tools",
+        "link": "https://www.youtube.com/watch?v=w5Q_e4Nrw9c",
+        "image": ""
+
+      }
+    ]
+  },
+  {
+    "course_title": "Python For Hackers",
+    "videos": [
+      {
+        "title": "Python Hacker full course",
+        "description": "Python for Hackers",
+        "link": "https://mega.nz/file/r4ZTTRBI#kAIr5Hl_a3agdKDUiWdx3pcsIQyKkbrsgNW-d9DRnVw",
+        "image": "/home/kali/Desktop/HARM/images/python for hacker.jpeg"
+      }
+    ]
+  },
+  {
+    "course_title": "Malware",
+    "videos": [
+      {
+        "title": "Malware full course",
+        "description": "Malware ",
+        "link": "https://mega.nz/file/SlY3EQ6b#iwQZcvmdQzd5CLZ49c8loUFkokmtg9ra8WC3x45AmVE",
+        "image": "/home/kali/Desktop/HARM/images/mal.jpeg"
+      }
+    ]
+  }
+]

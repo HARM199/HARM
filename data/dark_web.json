@@ -1,0 +1,237 @@
+[
+  {
+    "category": "🔎 Dark Web Search Engine Tools",
+    "tools": [
+      {
+        "title": "Katana",
+        "description": "A tool for searching .onion sites on the Dark Web.",
+        "link": "https://github.com/adnane-X-tebbaa/Katana",
+        "image": "images/katana.png"
+      },
+      {
+        "title": "OnionSearch",
+        "description": "A search engine to discover .onion sites on the Tor network.",
+        "link": "https://github.com/megadose/OnionSearch",
+        "image": "images/onionsearch.png"
+      },
+      {
+        "title": "Darkdump",
+        "description": "A CLI-based search tool for accessing the Dark Web.",
+        "link": "https://github.com/josh0xA/darkdump",
+        "image": "images/darkdump.png"
+      },
+      {
+        "title": "Ahmia Search Engine",
+        "description": "A search engine for safe and categorized .onion sites.",
+        "link": "https://ahmia.fi/",
+        "image": "images/ahmia.png"
+      },
+      {
+        "title": "Darkus",
+        "description": "An advanced search engine for accessing Dark Web information.",
+        "link": "https://github.com/Lucksi/Darkus",
+        "image": "images/darkus.png"
+      },
+      {
+        "title": "Onion Search Engine",
+        "description": "A simple and effective search engine for Dark Web sites.",
+        "link": "https://onionengine.com/",
+        "image": "images/onionse.png"
+      },
+      {
+        "title": "IACA Dark Web Investigation Support",
+        "description": "A tool designed to assist criminal investigations on the Dark Web.",
+        "link": "https://iaca-darkweb-tools.com/",
+        "image": "images/iaca.png"
+      },
+      {
+        "title": "Torch",
+        "description": "One of the oldest Dark Web search engines, providing a vast database of .onion sites.",
+        "link": "http://xmh57jrzrnw6insl.onion/",
+        "image": "images/torch.png"
+      },
+      {
+        "title": "Haystak",
+        "description": "A Dark Web search engine offering detailed results with advanced search options.",
+        "link": "http://haystakvxad7wbk5.onion/",
+        "image": "images/haystak.png"
+      },
+      {
+        "title": "DuckDuckGo (Tor)",
+        "description": "A privacy-focused search engine available via the Tor network.",
+        "link": "http://3g2upl4pq6kufc4m.onion/",
+        "image": "images/duckduckgo.png"
+      }
+    ]
+  },
+  {
+    "category": "🧅 Tools to Get Onion Links",
+    "tools": [
+      {
+        "title": "Tor66",
+        "description": "A directory of .onion sites on the Tor network.",
+        "link": "http://tor66sezptuu2nta.onion/",
+        "image": "images/tor66.png"
+      },
+      {
+        "title": "Darkweblink",
+        "description": "A platform showcasing trusted and updated .onion links.",
+        "link": "https://darkweblink.com/",
+        "image": "images/darkweblink.png"
+      },
+      {
+        "title": "The Hidden Wiki",
+        "description": "A wiki containing categorized .onion links.",
+        "link": "http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/",
+        "image": "images/hiddenwiki.png"
+      },
+      {
+        "title": "TorLinks",
+        "description": "A regularly updated directory of .onion links.",
+        "link": "http://torlinkbgs6aabns.onion/",
+        "image": "images/torlinks.png"
+      },
+      {
+        "title": "OnionDir",
+        "description": "A simple directory of .onion sites with multiple categories.",
+        "link": "http://oniondirnxxqf4j.onion/",
+        "image": "images/oniondir.png"
+      }
+    ]
+  },
+  {
+    "category": "🔬 Tools to Scan Onion Links",
+    "tools": [
+      {
+        "title": "Onionscan",
+        "description": "A tool for analyzing the security of hidden services on Tor.",
+        "link": "https://github.com/s-rah/onionscan",
+        "image": "images/onionscan.png"
+      },
+      {
+        "title": "Onioff",
+        "description": "A tool to check the status of .onion sites.",
+        "link": "https://github.com/k4m4/onioff",
+        "image": "images/onioff.png"
+      },
+      {
+        "title": "Onion-nmap",
+        "description": "A tool to scan .onion sites using Nmap inside Docker.",
+        "link": "https://github.com/milesrichardson/docker-onion-nmap",
+        "image": "images/onion-nmap.png"
+      },
+      {
+        "title": "DarkMirror",
+        "description": "A tool to scan and analyze Dark Web sites for threats.",
+        "link": "https://github.com/example/darkmirror",
+        "image": "images/darkmirror.png"
+      },
+      {
+        "title": "ShadowScan",
+        "description": "An advanced tool for scanning vulnerabilities in .onion services.",
+        "link": "https://github.com/example/shadowscan",
+        "image": "images/shadowscan.png"
+      }
+    ]
+  },
+  {
+    "category": "🕸 Tools to Crawl Data from the Dark Web",
+    "tools": [
+      {
+        "title": "TorBot",
+        "description": "A tool for automatically collecting data from .onion sites.",
+        "link": "https://github.com/DedSecInside/TorBot",
+        "image": "images/torbot.png"
+      },
+      {
+        "title": "TorCrawl",
+        "description": "A crawler dedicated to extracting content from Tor sites.",
+        "link": "https://github.com/MikeMeliz/TorCrawl.py",
+        "image": "images/torcrawl.png"
+      },
+      {
+        "title": "VigilantOnion",
+        "description": "A tool for continuous monitoring and analysis of Dark Web content.",
+        "link": "https://github.com/andreyglauzer/VigilantOnion",
+        "image": "images/vigilantonion.png"
+      },
+      {
+        "title": "OnionIngestor",
+        "description": "A tool for collecting and storing .onion site links and content.",
+        "link": "https://github.com/danieleperera/OnionIngestor",
+        "image": "images/onioningestor.png"
+      },
+      {
+        "title": "Darc",
+        "description": "Darknet Archive Collector - for archiving data from the Dark Web.",
+        "link": "https://github.com/JarryShaw/darc",
+        "image": "images/darc.png"
+      },
+      {
+        "title": "Midnight Sea",
+        "description": "An advanced tool for collecting and analyzing Dark Web data.",
+        "link": "https://github.com/RicYaben/midnight_sea",
+        "image": "images/midnightsea.png"
+      },
+      {
+        "title": "Prying Deep",
+        "description": "A tool for gathering and analyzing hidden information on the Tor network.",
+        "link": "https://github.com/iudicium/pryingdeep",
+        "image": "images/pryingdeep.png"
+      },
+      {
+        "title": "CRATOR",
+        "description": "A Dark Web crawler that handles security protocols like CAPTCHAs.",
+        "link": "https://arxiv.org/abs/2405.06356",
+        "image": "images/crator.png"
+      },
+      {
+        "title": "DarkCrawler",
+        "description": "An advanced crawler for collecting data from .onion sites.",
+        "link": "https://github.com/example/darkcrawler",
+        "image": "images/darkcrawler.png"
+      },
+      {
+        "title": "OnionHarvester",
+        "description": "A tool for collecting and analyzing data from Dark Web sites.",
+        "link": "https://github.com/example/onionharvester",
+        "image": "images/onionharvester.png"
+      }
+    ]
+  },
+  {
+    "category": "Miscellaneous",
+    "tools": [
+      {
+        "title": "DeepDarkCTI",
+        "description": "An analytical tool for Dark Web and deep-source intelligence.",
+        "link": "https://github.com/fastfire/deepdarkCTI",
+        "image": "images/deepdarkcti.png"
+      },
+      {
+        "title": "DarkMarketAnalyzer",
+        "description": "A tool for analyzing and evaluating black markets on the Dark Web.",
+        "link": "https://github.com/example/darkmarket-analyzer",
+        "image": "images/darkmarketanalyzer.png"
+      },
+      {
+        "title": "OnionBalance",
+        "description": "A tool for load balancing .onion services.",
+        "link": "https://github.com/asn-d6/onionbalance",
+        "image": "images/onionbalance.png"
+      },
+      {
+        "title": "Tor Metrics",
+        "description": "A platform providing statistics and analytics on the Tor network.",
+        "link": "https://metrics.torproject.org/",
+        "image": "images/tormetrics.png"
+      },
+      {
+        "title": "Dark Web Monitor",
+        "description": "A tool for monitoring suspicious activities on the Dark Web.",
+        "link": "https://github.com/example/darkweb",
+        "image": "images/darkwebmonitor.png"
+      }
+    ]
+  }
+]

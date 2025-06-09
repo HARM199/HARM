@@ -1,0 +1,903 @@
+ [
+  {
+    "title": "Zero-Day Initiative (ZDI) Advisories",
+    "description": "Latest unreported zero-day vulnerabilities with exploitation details.",
+    "category": "Zero-Day",
+    "link": "https://www.zerodayinitiative.com/advisories"
+  },
+  {
+    "title": "CISA Known Exploited Vulnerabilities Catalog",
+    "description": "Daily-updated list of vulnerabilities actively exploited in attacks (U.S. government source).",
+    "category": "Active Exploits",
+    "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+  },
+  {
+    "title": "Krebs on Security",
+    "description": "In-depth investigations of major hacker operations (e.g., ransomware campaigns, APTs).",
+    "category": "Cybercrime",
+    "link": "https://krebsonsecurity.com/"
+  },
+  {
+    "title": "The Hacker News - Exploits Section",
+    "description": "Dedicated feed for newly discovered exploits and attack methods.",
+    "category": "Exploits",
+    "link": "https://thehackernews.com/search/label/Exploit"
+  },
+  {
+    "title": "Dark Reading - Attack & Breaches",
+    "description": "Breaking news on enterprise breaches and attack vectors.",
+    "category": "Breaches",
+    "link": "https://www.darkreading.com/attacks-breaches"
+  },
+  {
+    "title": "BleepingComputer - Malware News",
+    "description": "Real-time tracking of new malware strains and cybercriminal tactics.",
+    "category": "Malware",
+    "link": "https://www.bleepingcomputer.com/news/security/"
+  },
+  {
+    "title": "Recorded Future - Threat Intelligence",
+    "description": "Actionable intelligence on emerging threats and hacker groups.",
+    "category": "Threat Intel",
+    "link": "https://www.recordedfuture.com/resources/"
+  },
+  {
+    "title": "Exploit-DB Recent Entries",
+    "description": "Freshly added exploits with PoC code (curated by Offensive Security).",
+    "category": "Exploits",
+    "link": "https://www.exploit-db.com/"
+  },
+  {
+    "title": "APT Groups & Operations (MITRE)",
+    "description": "Tracking advanced persistent threat actors and their TTPs.",
+    "category": "APT",
+    "link": "https://attack.mitre.org/groups/"
+  },
+  {
+    "title": "Twitter #0day",
+    "description": "Real-time zero-day discussions from researchers (always verify claims).",
+    "category": "Zero-Day",
+    "link": "https://twitter.com/hashtag/0day"
+  },
+  {
+    "title": "VX-Underground",
+    "description": "Archive of malware source code, leaks, and hacker manuals.",
+    "category": "Malware Research",
+    "link": "https://www.vx-underground.org/"
+  },
+  {
+    "title": "Ransomware.live",
+    "description": "Live tracker of ransomware attacks worldwide with victim data.",
+    "category": "Ransomware",
+    "link": "https://www.ransomware.live/"
+  },
+  {
+    "title": "Threatpost - Zero-Day Reports",
+    "description": "Verified zero-day disclosures and impact analysis.",
+    "category": "Zero-Day",
+    "link": "https://threatpost.com/category/zero-day/"
+  },
+  {
+    "title": "MalwareTech Botnet Tracker",
+    "description": "Live monitoring of botnet C&C servers and takedowns.",
+    "category": "Botnets",
+    "link": "https://www.malwaretech.com/botnet-tracker"
+  },
+  {
+    "title": "PhishTank",
+    "description": "Community-driven phishing site database (by OpenDNS).",
+    "category": "Phishing",
+    "link": "https://www.phishtank.com/"
+  },
+  {
+    "title": "GreyNoise - Zero-Day Tracking",
+    "description": "Detects exploitation attempts for unpatched vulnerabilities.",
+    "category": "Zero-Day",
+    "link": "https://www.greynoise.io/viz/zero-day"
+  },
+  {
+    "title": "CyberWire Daily Podcast",
+    "description": "Daily briefings on major cyber incidents and threats.",
+    "category": "News",
+    "link": "https://thecyberwire.com/podcasts/daily-podcast"
+  },
+  {
+    "title": "Have I Been Pwned?",
+    "description": "Check if your data appeared in recent breaches.",
+    "category": "Breaches",
+    "link": "https://haveibeenpwned.com/"
+  },
+  {
+    "title": "DeHashed",
+    "description": "Aggregator of leaked credentials from recent hacks.",
+    "category": "Breaches",
+    "link": "https://www.dehashed.com/"
+  },
+  {
+    "title": "Intel471 Adversary Intelligence",
+    "description": "Underground monitoring of hacker forums and dark web markets.",
+    "category": "Cybercrime",
+    "link": "https://intel471.com/"
+  },
+  {
+    "title": "Cyber Threat Coalition",
+    "description": "Real-time threat indicators from security community collaborations.",
+    "category": "Threat Intel",
+    "link": "https://www.cyberthreatcoalition.org/"
+  },
+  {
+    "title": "AlienVault Open Threat Exchange",
+    "description": "Crowdsourced platform for sharing security threats and indicators.",
+    "category": "Threat Intel",
+    "link": "https://otx.alienvault.com/"
+  },
+  {
+    "title": "Malpedia",
+    "description": "Repository of malware samples and behavior analysis.",
+    "category": "Malware Research",
+    "link": "https://malpedia.caad.fkie.fraunhofer.de/"
+  },
+  {
+    "title": "URLhaus",
+    "description": "Live database of malicious URLs for threat detection.",
+    "category": "Malware",
+    "link": "https://urlhaus.abuse.ch/"
+  },
+  {
+    "title": "ThreatMiner",
+    "description": "Platform for threat intelligence data aggregation and analysis.",
+    "category": "Threat Intel",
+    "link": "https://www.threatminer.org/"
+  },
+  {
+    "title": "Censys.io",
+    "description": "Search engine for internet-connected devices and vulnerabilities.",
+    "category": "Attack Surface",
+    "link": "https://censys.io/"
+  },
+  {
+    "title": "Shodan",
+    "description": "Discover exposed devices and vulnerable systems worldwide.",
+    "category": "Attack Surface",
+    "link": "https://www.shodan.io/"
+  },
+  {
+    "title": "BinaryEdge",
+    "description": "Real-time threat intelligence on exposed internet assets.",
+    "category": "Attack Surface",
+    "link": "https://www.binaryedge.io/"
+  },
+  {
+    "title": "MISP Threat Sharing",
+    "description": "Open source threat intelligence platform for sharing indicators.",
+    "category": "Threat Intel",
+    "link": "https://www.misp-project.org/"
+  },
+  {
+    "title": "Talon Cyber Threat Feed",
+    "description": "Curated feed of emerging cyber threats and IOCs.",
+    "category": "Threat Intel",
+    "link": "https://talon.blue/feed"
+  },
+  {
+    "title": "VirusBay",
+    "description": "Collaborative malware analysis platform with community sharing.",
+    "category": "Malware Research",
+    "link": "https://beta.virusbay.io/"
+  },
+  {
+    "title": "CyberGreen",
+    "description": "Global initiative to reduce systemic cyber risks and vulnerabilities.",
+    "category": "Risk Assessment",
+    "link": "https://www.cybergreen.net/"
+  },
+  {
+    "title": "ThreatButt",
+    "description": "Satirical but sometimes useful threat intelligence source.",
+    "category": "Humor",
+    "link": "https://threatbutt.com/"
+  },
+  {
+    "title": "APT Notes",
+    "description": "Collection of public documents about APT groups and operations.",
+    "category": "APT",
+    "link": "https://github.com/kbandla/APTnotes"
+  },
+  {
+    "title": "Ransomware Tracker",
+    "description": "Tracking ransomware operators and their infrastructure.",
+    "category": "Ransomware",
+    "link": "https://ransomwaretracker.abuse.ch/"
+  },
+  {
+    "title": "Botnet Tracker by Abuse.ch",
+    "description": "Monitoring active botnets and their command servers.",
+    "category": "Botnets",
+    "link": "https://www.abuse.ch/"
+  },
+  {
+    "title": "ThreatCrowd",
+    "description": "Search engine for threats including domains, IPs, and malware.",
+    "category": "Threat Intel",
+    "link": "https://www.threatcrowd.org/"
+  },
+  {
+    "title": "Cyber Threat Alliance",
+    "description": "Coalition of security companies sharing threat intelligence.",
+    "category": "Threat Intel",
+    "link": "https://www.cyberthreatalliance.org/"
+  },
+  {
+    "title": "FireEye Threat Intelligence",
+    "description": "Reports on advanced threats and adversary groups.",
+    "category": "Threat Intel",
+    "link": "https://www.fireeye.com/blog/threat-research.html"
+  },
+  {
+    "title": "Palo Alto Unit 42",
+    "description": "Threat research team reports on emerging cyber threats.",
+    "category": "Threat Intel",
+    "link": "https://unit42.paloaltonetworks.com/"
+  },
+  {
+    "title": "SecureList by Kaspersky",
+    "description": "Global threat intelligence reports and analysis.",
+    "category": "Threat Intel",
+    "link": "https://securelist.com/"
+  },
+  {
+    "title": "Talos Intelligence",
+    "description": "Cisco's threat intelligence group publishing research.",
+    "category": "Threat Intel",
+    "link": "https://talosintelligence.com/"
+  },
+  {
+    "title": "Proofpoint Threat Insight",
+    "description": "Analysis of email threats, malware, and cybercrime trends.",
+    "category": "Threat Intel",
+    "link": "https://www.proofpoint.com/us/threat-insight"
+  },
+  {
+    "title": "Symantec Threat Intelligence",
+    "description": "Reports on cyber threats from Broadcom's security division.",
+    "category": "Threat Intel",
+    "link": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence"
+  },
+  {
+    "title": "Trend Micro Research",
+    "description": "Global threat research and security news.",
+    "category": "Threat Intel",
+    "link": "https://www.trendmicro.com/en_us/research.html"
+  },
+  {
+    "title": "ESET Threat Reports",
+    "description": "Regular publications on malware and cyber threats.",
+    "category": "Threat Intel",
+    "link": "https://www.eset.com/int/threat-report/"
+  },
+  {
+    "title": "McAfee Labs Threats Report",
+    "description": "Quarterly reports on the latest cyber threats.",
+    "category": "Threat Intel",
+    "link": "https://www.mcafee.com/enterprise/en-us/labs.html"
+  },
+  {
+    "title": "Check Point Research",
+    "description": "Threat intelligence and cybersecurity research.",
+    "category": "Threat Intel",
+    "link": "https://research.checkpoint.com/"
+  },
+  {
+    "title": "Sophos Threat Intelligence",
+    "description": "Reports on ransomware, malware, and emerging threats.",
+    "category": "Threat Intel",
+    "link": "https://www.sophos.com/en-us/threat-center/threat-intelligence.aspx"
+  },
+  {
+    "title": "CrowdStrike Threat Intelligence",
+    "description": "Adversary research and threat analysis reports.",
+    "category": "Threat Intel",
+    "link": "https://www.crowdstrike.com/blog/category/threat-intelligence/"
+  },
+  {
+    "title": "Mandiant Threat Intelligence",
+    "description": "Reports on cyber espionage and advanced threats.",
+    "category": "Threat Intel",
+    "link": "https://www.mandiant.com/resources/blog"
+  },
+  {
+    "title": "IBM X-Force Threat Intelligence",
+    "description": "Research on cyber threats and security trends.",
+    "category": "Threat Intel",
+    "link": "https://www.ibm.com/security/xforce/threat-intelligence"
+  },
+  {
+    "title": "Microsoft Security Intelligence",
+    "description": "Threat reports from Microsoft's security teams.",
+    "category": "Threat Intel",
+    "link": "https://www.microsoft.com/en-us/security/business/security-intelligence-report"
+  },
+  {
+    "title": "Google Threat Analysis Group",
+    "description": "Reports on nation-state threats and cyber attacks.",
+    "category": "Threat Intel",
+    "link": "https://blog.google/threat-analysis-group/"
+  },
+  {
+    "title": "Meta Threat Reports",
+    "description": "Facebook's threat intelligence on cyber espionage.",
+    "category": "Threat Intel",
+    "link": "https://about.fb.com/news/tag/threat-report/"
+  },
+  {
+    "title": "Twitter Threat Intelligence",
+    "description": "Reports on platform manipulation and cyber threats.",
+    "category": "Threat Intel",
+    "link": "https://blog.twitter.com/en_us/topics/company/2020/twitter-threat-intelligence"
+  },
+  {
+    "title": "LinkedIn Security Blog",
+    "description": "Updates on platform threats and security measures.",
+    "category": "Threat Intel",
+    "link": "https://www.linkedin.com/blog/topic/security/"
+  },
+  {
+    "title": "GitHub Security Lab",
+    "description": "Vulnerability research and security advisories.",
+    "category": "Vulnerabilities",
+    "link": "https://securitylab.github.com/"
+  },
+  {
+    "title": "GitLab Security Advisories",
+    "description": "Security updates and vulnerability disclosures.",
+    "category": "Vulnerabilities",
+    "link": "https://about.gitlab.com/security/security-advisories/"
+  },
+  {
+    "title": "Atlassian Security Advisories",
+    "description": "Security bulletins for Atlassian products.",
+    "category": "Vulnerabilities",
+    "link": "https://www.atlassian.com/trust/security/advisories"
+  },
+  {
+    "title": "Oracle Critical Patch Updates",
+    "description": "Quarterly security patches for Oracle products.",
+    "category": "Vulnerabilities",
+    "link": "https://www.oracle.com/security-alerts/"
+  },
+  {
+    "title": "SAP Security Notes",
+    "description": "Security updates for SAP products and solutions.",
+    "category": "Vulnerabilities",
+    "link": "https://wiki.scn.sap.com/wiki/display/PSR/SAP+Security+Notes+and+Patch+Day"
+  },
+  {
+    "title": "Adobe Security Bulletins",
+    "description": "Security updates for Adobe software products.",
+    "category": "Vulnerabilities",
+    "link": "https://helpx.adobe.com/security.html"
+  },
+  {
+    "title": "Apple Security Updates",
+    "description": "Security content of Apple software updates.",
+    "category": "Vulnerabilities",
+    "link": "https://support.apple.com/en-us/HT201222"
+  },
+  {
+    "title": "Microsoft Security Update Guide",
+    "description": "Searchable database of Microsoft security patches.",
+    "category": "Vulnerabilities",
+    "link": "https://msrc.microsoft.com/update-guide/"
+  },
+  {
+    "title": "Linux Kernel Security Advisories",
+    "description": "Security fixes for the Linux kernel.",
+    "category": "Vulnerabilities",
+    "link": "https://www.kernel.org/category/security.html"
+  },
+  {
+    "title": "Red Hat Security Advisories",
+    "description": "Security updates for Red Hat products.",
+    "category": "Vulnerabilities",
+    "link": "https://access.redhat.com/security/security-updates/"
+  },
+  {
+    "title": "Ubuntu Security Notices",
+    "description": "Security advisories for Ubuntu Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://ubuntu.com/security/notices"
+  },
+  {
+    "title": "Debian Security Advisories",
+    "description": "Security updates for Debian Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://www.debian.org/security/"
+  },
+  {
+    "title": "SUSE Security Advisories",
+    "description": "Security updates for SUSE Linux products.",
+    "category": "Vulnerabilities",
+    "link": "https://www.suse.com/support/update/"
+  },
+  {
+    "title": "FreeBSD Security Advisories",
+    "description": "Security updates for FreeBSD operating system.",
+    "category": "Vulnerabilities",
+    "link": "https://www.freebsd.org/security/advisories/"
+  },
+  {
+    "title": "OpenBSD Security Advisories",
+    "description": "Security updates for OpenBSD operating system.",
+    "category": "Vulnerabilities",
+    "link": "https://www.openbsd.org/security.html"
+  },
+  {
+    "title": "NetBSD Security Advisories",
+    "description": "Security updates for NetBSD operating system.",
+    "category": "Vulnerabilities",
+    "link": "https://www.netbsd.org/support/security/"
+  },
+  {
+    "title": "Alpine Linux Security Advisories",
+    "description": "Security updates for Alpine Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://alpinelinux.org/security/"
+  },
+  {
+    "title": "Arch Linux Security Advisories",
+    "description": "Security updates for Arch Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://security.archlinux.org/"
+  },
+  {
+    "title": "Gentoo Linux Security Advisories",
+    "description": "Security updates for Gentoo Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://security.gentoo.org/"
+  },
+  {
+    "title": "Slackware Security Advisories",
+    "description": "Security updates for Slackware Linux.",
+    "category": "Vulnerabilities",
+    "link": "http://www.slackware.com/security/"
+  },
+  {
+    "title": "Mageia Security Advisories",
+    "description": "Security updates for Mageia Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://advisories.mageia.org/"
+  },
+  {
+    "title": "Fedora Security Advisories",
+    "description": "Security updates for Fedora Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://bodhi.fedoraproject.org/updates/?type=security"
+  },
+  {
+    "title": "CentOS Security Advisories",
+    "description": "Security updates for CentOS Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://lists.centos.org/pipermail/centos-announce/"
+  },
+  {
+    "title": "Rocky Linux Security Advisories",
+    "description": "Security updates for Rocky Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://errata.rockylinux.org/"
+  },
+  {
+    "title": "AlmaLinux Security Advisories",
+    "description": "Security updates for AlmaLinux.",
+    "category": "Vulnerabilities",
+    "link": "https://errata.almalinux.org/"
+  },
+  {
+    "title": "Amazon Linux Security Advisories",
+    "description": "Security updates for Amazon Linux.",
+    "category": "Vulnerabilities",
+    "link": "https://alas.aws.amazon.com/"
+  },
+  {
+    "title": "Google Android Security Bulletins",
+    "description": "Monthly security updates for Android.",
+    "category": "Vulnerabilities",
+    "link": "https://source.android.com/security/bulletin"
+  },
+  {
+    "title": "Samsung Mobile Security Updates",
+    "description": "Security updates for Samsung mobile devices.",
+    "category": "Vulnerabilities",
+    "link": "https://security.samsungmobile.com/workScope.smsb"
+  },
+  {
+    "title": "Apple iOS Security Updates",
+    "description": "Security content of iOS and iPadOS updates.",
+    "category": "Vulnerabilities",
+    "link": "https://support.apple.com/en-us/HT201222"
+  },
+  {
+    "title": "Microsoft Edge Security Updates",
+    "description": "Security updates for Microsoft Edge browser.",
+    "category": "Vulnerabilities",
+    "link": "https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security"
+  },
+  {
+    "title": "Google Chrome Releases",
+    "description": "Security updates for Chrome browser.",
+    "category": "Vulnerabilities",
+    "link": "https://chromereleases.googleblog.com/"
+  },
+  {
+    "title": "Mozilla Firefox Security Advisories",
+    "description": "Security updates for Firefox browser.",
+    "category": "Vulnerabilities",
+    "link": "https://www.mozilla.org/en-US/security/advisories/"
+  },
+  {
+    "title": "Safari Security Updates",
+    "description": "Security content of Safari browser updates.",
+    "category": "Vulnerabilities",
+    "link": "https://support.apple.com/en-us/HT201222"
+  },
+  {
+    "title": "Opera Security Advisories",
+    "description": "Security updates for Opera browser.",
+    "category": "Vulnerabilities",
+    "link": "https://blogs.opera.com/security/"
+  },
+  {
+    "title": "Brave Security Updates",
+    "description": "Security updates for Brave browser.",
+    "category": "Vulnerabilities",
+    "link": "https://brave.com/latest/"
+  },
+  {
+    "title": "Vivaldi Security Updates",
+    "description": "Security updates for Vivaldi browser.",
+    "category": "Vulnerabilities",
+    "link": "https://vivaldi.com/blog/category/security/"
+  },
+  {
+    "title": "Tor Browser Security Advisories",
+    "description": "Security updates for Tor Browser.",
+    "category": "Vulnerabilities",
+    "link": "https://blog.torproject.org/category/tags/security"
+  },
+  {
+    "title": "DuckDuckGo Privacy Browser Security",
+    "description": "Security updates for DuckDuckGo browser.",
+    "category": "Vulnerabilities",
+    "link": "https://spreadprivacy.com/category/security/"
+  },
+  {
+    "title": "Nginx Security Advisories",
+    "description": "Security updates for Nginx web server.",
+    "category": "Vulnerabilities",
+    "link": "https://nginx.org/en/security_advisories.html"
+  },
+  {
+    "title": "Apache HTTP Server Security Reports",
+    "description": "Security updates for Apache HTTP Server.",
+    "category": "Vulnerabilities",
+    "link": "https://httpd.apache.org/security_report.html"
+  },
+  {
+    "title": "Microsoft IIS Security Updates",
+    "description": "Security updates for Internet Information Services.",
+    "category": "Vulnerabilities",
+    "link": "https://docs.microsoft.com/en-us/security-updates/"
+  },
+  {
+    "title": "Lighttpd Security Advisories",
+    "description": "Security updates for Lighttpd web server.",
+    "category": "Vulnerabilities",
+    "link": "https://www.lighttpd.net/security/"
+  },
+  {
+    "title": "Caddy Security Advisories",
+    "description": "Security updates for Caddy web server.",
+    "category": "Vulnerabilities",
+    "link": "https://caddyserver.com/docs/security"
+  },
+  {
+    "title": "OpenSSL Security Advisories",
+    "description": "Security updates for OpenSSL library.",
+    "category": "Vulnerabilities",
+    "link": "https://www.openssl.org/news/secadv/"
+  },
+  {
+    "title": "LibreSSL Security Advisories",
+    "description": "Security updates for LibreSSL library.",
+    "category": "Vulnerabilities",
+    "link": "https://www.libressl.org/"
+  },
+  {
+    "title": "GnuTLS Security Advisories",
+    "description": "Security updates for GnuTLS library.",
+    "category": "Vulnerabilities",
+    "link": "https://www.gnutls.org/security.html"
+  },
+  {
+    "title": "NSS Security Advisories",
+    "description": "Security updates for Mozilla NSS library.",
+    "category": "Vulnerabilities",
+    "link": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_Security_Advisories"
+  },
+  {
+    "title": "BoringSSL Security Updates",
+    "description": "Security updates for Google's BoringSSL.",
+    "category": "Vulnerabilities",
+    "link": "https://boringssl.googlesource.com/boringssl/"
+  },
+  {
+    "title": "WolfSSL Security Advisories",
+    "description": "Security updates for WolfSSL library.",
+    "category": "Vulnerabilities",
+    "link": "https://www.wolfssl.com/docs/security-vulnerabilities/"
+  },
+  {
+    "title": "mbed TLS Security Advisories",
+    "description": "Security updates for mbed TLS library.",
+    "category": "Vulnerabilities",
+    "link": "https://tls.mbed.org/security"
+  },
+  {
+    "title": "S2n Security Advisories",
+    "description": "Security updates for AWS's s2n TLS implementation.",
+    "category": "Vulnerabilities",
+    "link": "https://github.com/aws/s2n-tls/blob/main/SECURITY.md"
+  },
+  {
+    "title": "Rustls Security Advisories",
+    "description": "Security updates for Rustls TLS implementation.",
+    "category": "Vulnerabilities",
+    "link": "https://github.com/rustls/rustls/security/advisories"
+  },
+  {
+    "title": "Go Crypto Security Advisories",
+    "description": "Security updates for Go's crypto packages.",
+    "category": "Vulnerabilities",
+    "link": "https://github.com/golang/go/security/advisories"
+  },
+  {
+    "title": "Node.js Security Advisories",
+    "description": "Security updates for Node.js runtime.",
+    "category": "Vulnerabilities",
+    "link": "https://nodejs.org/en/security/"
+  },
+  {
+    "title": "Python Security Advisories",
+    "description": "Security updates for Python programming language.",
+    "category": "Vulnerabilities",
+    "link": "https://www.python.org/news/security/"
+  },
+  {
+    "title": "Ruby Security Advisories",
+    "description": "Security updates for Ruby programming language.",
+    "category": "Vulnerabilities",
+    "link": "https://www.ruby-lang.org/en/security/"
+  },
+  {
+    "title": "PHP Security Advisories",
+    "description": "Security updates for PHP programming language.",
+    "category": "Vulnerabilities",
+    "link": "https://www.php.net/security/"
+  },
+  {
+    "title": "Perl Security Advisories",
+    "description": "Security updates for Perl programming language.",
+    "category": "Vulnerabilities",
+    "link": "https://perldoc.perl.org/perlsec"
+  },
+  {
+    "title": "Rust Security Advisories",
+    "description": "Security updates for Rust programming language.",
+    "category": "Vulnerabilities",
+    "link": "https://blog.rust-lang.org/category/security.html"
+  },
+  {
+    "title": "Go Security Advisories",
+    "description": "Security updates for Go programming language.",
+    "category": "Vulnerabilities",
+    "link": "https://github.com/golang/go/security/advisories"
+  },
+  {
+    "title": "Java Security Advisories",
+    "description": "Security updates for Java platform.",
+    "category": "Vulnerabilities",
+    "link": "https://www.oracle.com/java/technologies/javase/overview.html"
+  },
+  {
+    "title": ".NET Security Updates",
+    "description": "Security updates for .NET framework.",
+    "category": "Vulnerabilities",
+    "link": "https://devblogs.microsoft.com/dotnet/category/security/"
+  },
+  {
+    "title": "Django Security Releases",
+    "description": "Security updates for Django web framework.",
+    "category": "Vulnerabilities",
+    "link": "https://www.djangoproject.com/weblog/"
+  },
+  {
+    "title": "Rails Security Advisories",
+    "description": "Security updates for Ruby on Rails framework.",
+    "category": "Vulnerabilities",
+    "link": "https://rubyonrails.org/security/"
+  },
+  {
+    "title": "Laravel Security Advisories",
+    "description": "Security updates for Laravel PHP framework.",
+    "category": "Vulnerabilities",
+    "link": "https://laravel.com/docs/security"
+  },
+  {
+    "title": "Spring Security Advisories",
+    "description": "Security updates for Spring framework.",
+    "category": "Vulnerabilities",
+    "link": "https://spring.io/security"
+  },
+  {
+    "title": "Express.js Security Updates",
+    "description": "Security updates for Express.js framework.",
+    "category": "Vulnerabilities",
+    "link": "https://expressjs.com/en/advanced/security-updates.html"
+  },
+  {
+    "title": "React Security Advisories",
+    "description": "Security updates for React library.",
+    "category": "Vulnerabilities",
+    "link": "https://reactjs.org/community/security.html"
+  },
+  {
+    "title": "Vue.js Security Advisories",
+    "description": "Security updates for Vue.js framework.",
+    "category": "Vulnerabilities",
+    "link": "https://vuejs.org/guide/best-practices/security.html"
+  },
+  {
+    "title": "Angular Security Advisories",
+    "description": "Security updates for Angular framework.",
+    "category": "Vulnerabilities",
+    "link": "https://angular.io/guide/security"
+  },
+  {
+    "title": "Svelte Security Advisories",
+    "description": "Security updates for Svelte framework.",
+    "category": "Vulnerabilities",
+    "link": "https://svelte.dev/docs#security"
+  },
+  {
+    "title": "Ember.js Security Advisories",
+    "description": "Security updates for Ember.js framework.",
+    "category": "Vulnerabilities",
+    "link": "https://emberjs.com/security/"
+  },
+  {
+    "title": "jQuery Security Advisories",
+    "description": "Security updates for jQuery library.",
+    "category": "Vulnerabilities",
+    "link": "https://blog.jquery.com/category/security/"
+  },
+  {
+    "title": "Bootstrap Security Advisories",
+    "description": "Security updates for Bootstrap framework.",
+    "category": "Vulnerabilities",
+    "link": "https://github.com/twbs/bootstrap/security/advisories"
+  },
+  {
+    "title": "WordPress Security Advisories",
+    "description": "Security updates for WordPress CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://wordpress.org/news/category/security/"
+  },
+  {
+    "title": "Drupal Security Advisories",
+    "description": "Security updates for Drupal CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://www.drupal.org/security"
+  },
+  {
+    "title": "Joomla Security Advisories",
+    "description": "Security updates for Joomla CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://developer.joomla.org/security-centre.html"
+  },
+  {
+    "title": "Magento Security Advisories",
+    "description": "Security updates for Magento eCommerce platform.",
+    "category": "Vulnerabilities",
+    "link": "https://helpx.adobe.com/security/products/magento.html"
+  },
+  {
+    "title": "Shopify Security Advisories",
+    "description": "Security updates for Shopify eCommerce platform.",
+    "category": "Vulnerabilities",
+    "link": "https://shopify.engineering/tags/security"
+  },
+  {
+    "title": "WooCommerce Security Advisories",
+    "description": "Security updates for WooCommerce plugin.",
+    "category": "Vulnerabilities",
+    "link": "https://woocommerce.com/security-advisories/"
+  },
+  {
+    "title": "PrestaShop Security Advisories",
+    "description": "Security updates for PrestaShop eCommerce platform.",
+    "category": "Vulnerabilities",
+    "link": "https://build.prestashop.com/news/category/security/"
+  },
+  {
+    "title": "OpenCart Security Advisories",
+    "description": "Security updates for OpenCart eCommerce platform.",
+    "category": "Vulnerabilities",
+    "link": "https://github.com/opencart/opencart/security/advisories"
+  },
+  {
+    "title": "Ghost Security Advisories",
+    "description": "Security updates for Ghost blogging platform.",
+    "category": "Vulnerabilities",
+    "link": "https://ghost.org/security/"
+  },
+  {
+    "title": "Strapi Security Advisories",
+    "description": "Security updates for Strapi headless CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://strapi.io/security"
+  },
+  {
+    "title": "Sanity Security Advisories",
+    "description": "Security updates for Sanity headless CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://www.sanity.io/security"
+  },
+  {
+    "title": "Contentful Security Advisories",
+    "description": "Security updates for Contentful headless CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://www.contentful.com/security/"
+  },
+  {
+    "title": "Prismic Security Advisories",
+    "description": "Security updates for Prismic headless CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://prismic.io/security"
+  },
+  {
+    "title": "Directus Security Advisories",
+    "description": "Security updates for Directus headless CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://directus.io/security/"
+  },
+  {
+    "title": "KeystoneJS Security Advisories",
+    "description": "Security updates for KeystoneJS headless CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://keystonejs.com/security/"
+  },
+  {
+    "title": "Grav Security Advisories",
+    "description": "Security updates for Grav flat-file CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://getgrav.org/security"
+  },
+  {
+    "title": "ProcessWire Security Advisories",
+    "description": "Security updates for ProcessWire CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://processwire.com/blog/tags/security/"
+  },
+  {
+    "title": "Concrete5 Security Advisories",
+    "description": "Security updates for Concrete5 CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://www.concretecms.org/about/blog/security"
+  },
+  {
+    "title": "SilverStripe Security Advisories",
+    "description": "Security updates for SilverStripe CMS.",
+    "category": "Vulnerabilities",
+    "link": "https://www.silverstripe.org/security-releases/"
+  }
+
+]

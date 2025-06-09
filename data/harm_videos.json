@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Video 1 :The secret method hackers use to open an external port for life — discover what no one knows!",
+    "description": "In networking, opening ports is essential to facilitate communication between devices and is used in gaming, web services, and remote control. Portmap.io offers a free and easy service to open ports without complexity. Portmap.io features include simple and fast usage, support for TCP and UDP protocols, high reliability for continuous connections, and user data protection. Hackers use it to quickly open ports to ease attacks, hide identity by routing traffic, bypass network restrictions, support multiple protocols, and benefit from an easy-to-use interface with a stable and reliable connection. It works by using NAT technology to route traffic to open ports after registration, making the process smooth and fast. Portmap.io is an effective and simple solution for opening ports, suitable for developers, gamers, and regular users alike.",
+    "image": "/home/kali/Desktop/HARM/images/Untitled (copy 1).jpeg",
+    "link": "https://www.youtube.com/watch?v=Qtwtez5wRME"
+  },
+  {
+    "title": "Video 2:Turning a USB flash drive into a cyber weapon",
+    "description": "networking_intro:In networking, opening ports is essential to facilitate communication between devices and is used in gaming, web services, and remote control. Portmap.io offers a free and easy way to expose local services behind NAT or firewall via secure tunnels.,kali_usb_advantages:Installing Kali Linux on a USB flash drive provides flexibility to use on any device without installation. It enhances security by leaving no trace on host machines. Kali comes preloaded with many penetration testing tools. Setup is easy and fast. You can customize tools and update the system directly from the USB.,persistence_benefits:Enabling persistence on Kali USB saves system changes, installed programs, and personal files. This allows you to reuse your custom setup without reconfiguration each time. It makes Kali Linux more practical and flexible.,kali_installation_strength:Kali Linux strength by installation method: USB flash drive: 7/10 — portable and persistent but slower. Hard drive install: 9/10 — fast with full resource use and features. Virtual machine: 8/10 — isolated and easy to switch but slower due to shared resources.",
+    "image": "/home/kali/Desktop/HARM/images/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=meXmQTVjjp4&t=2s"
+  },
+  {
+    "title": "Video 3:Revealing the Secrets of Hackers in Sending Anonymous Messages",
+    "description":"Tor:definition:A network that hides user identity by routing traffic through multiple volunteer servers worldwide.,benefits:Hide IP address,Bypass censorship,Enhanced privacy,ProtonMail:definition:An encrypted email service that provides end-to-end encryption to protect message contents.,features:Full encryption,No personal info required to sign up,Supports Tor access,TorWithProtonMail:benefits:Hide identity and real location,Protection from censorship and tracking,No need to provide phone number,High privacy level by combining encryption and Tor,limitations:Does not offer complete protection if the user is not careful,OnionAvailableFeature:description:A feature in the Tor browser that indicates if the visited site has a .onion hidden service version.,purpose:Encourages the use of .onion sites for better privacy and security.,advantages:Fully encrypted connection,User and site anonymity,Tracking protection,conclusion:Using Tor with ProtonMail offers excellent privacy, provided the user practices safe behavior and avoids sharing sensitive information.",
+    "image": "/home/kali/Desktop/HARM/images/____.jpg",
+    "link": "https://www.youtube.com/watch?v=ibUaCOiJeDg&t=11s"
+  },
+  {
+    "title": "Video 4:How hackers exploit artificial intelligence to locate you and misuse your data: Revealing hidden secrets!",
+    "description": "definition:An IP address is a digital identifier for any device connected to the internet.,exploitation:by_hackers:approximate geographic location,launch DDoS attacks,exploit vulnerabilities and open ports,eavesdrop on networks,how_hackers_obtain_ip:phishing attacks with malicious links,infected attachments,fake pages,social engineering techniques,protection_methods:use a VPN,keep systems updated,be cautious when using public networks,enable firewalls,tools:Hound:Helps collect personal information from public sources for security or social engineering purposes.",
+    "image": "/home/kali/Desktop/HARM/images/__.jpg",
+    "link": "https://www.youtube.com/watch?v=41k-y8Ynb7E"
+  },
+  {
+    "title": "Video 5:Network Isolation in VirtualBox: Make Your Virtual System Secure Against Hackers in the World of Cybersecurity",
+    "description": "Definition:Creating separate virtual network environments to prevent VMs from accessing local network, internet, or other VMs.,Types:NAT:Allows internet with isolation from local network.,Bridged:Connects VM to physical network like a real device.,Internal:VMs communicate only with each other, no internet or physical network.,Host-Only:Host and VMs communicate but no physical network access.,Importance:Security:Prevents hacker access to sensitive systems.,Safe Testing:Allows safe software/system testing without risk.,Management:Easier system management and analysis.,Applications:Used in VirtualBox for testing, learning, research, and security.,Summary:Network Isolation in VirtualBox enhances security and management by separating virtual networks.",
+    "image": "/home/kali/Desktop/HARM/images/_____________________________.jpg",
+    "link": "https://www.youtube.com/watch?v=QnUhEC8SeSs&t=2s"
+  },
+  {
+    "title": "Video 6:Have you ever wondered how hacking you is done legally? Ransomware reveals a new secret from hacker SARA.",
+    "description": "ransomware:Encrypts files and demands cryptocurrency ransom, threatening data loss if unpaid.,SARA:features:Create custom Trojans,Create ransomware for Android,Modify malware,Simple user interface,Runs on Kali Linux, Ubuntu, Termux,purpose:Flexible, powerful malware creation",
+    "image": "/home/kali/Desktop/HARM/images/_______________________________.jpg",
+    "link": "https://www.youtube.com/watch?v=V7JGdXlmLl8"
+  },
+  {
+    "title": "Video 7:Creating a secret room on the dark web: Steps to build a private space accessible only via a link and an encrypted key",
+    "description": "onionshare_summary:OnionShare is a secure, anonymous file-sharing and messaging tool on the dark web using Tor, offering secret rooms, no account needed, direct encrypted connections, ease of use, open-source code, anti-tracking, multi-language support, and practical applications for privacy and secure communication; installation involves Tor and OnionShare setup with a known fix, while AES encryption (128/192/256-bit) ensures strong data security.",
+    "image": "/home/kali/Desktop/HARM/images/bb.jpg",
+    "link": "https://www.youtube.com/watch?v=2hJUk9IiX58&t=706s"
+  },
+  {
+    "title": "Video 8:The optimal solution to simplify tasks on Kali Linux (500 tools × 1 script)",
+    "description": "summary:Lazy Script is a Bash-based tool designed to simplify the use of Kali Linux tools in ethical hacking. It provides an easy-to-use interface that allows users to perform tasks like information gathering, network testing, and vulnerability exploitation without the need for complex commands. Key features include: Organized menu for easy navigation. Automatic installation of missing tools. Wide range of supported functions info gathering, Wi-Fi attacks, security settings, etc.. Suitable for both beginners and professionals.,conclusion:Lazy Script is an efficient tool that speeds up and organizes daily tasks on Kali Linux, making it an ideal choice for those looking to automate their security operations easily.",
+    "image": "/home/kali/Desktop/HARM/images/lazy.jpg",
+    "link": "https://www.youtube.com/watch?v=02Jl8dx9Mdk&t=10s"
+  },
+  {
+    "title": "Video 9:How I managed to extract a full copy of the FBI website",
+    "description": "commands:sudo su && apt update && apt upgrade,sudo nano /etc/setoolkit/set.config,report:introduction:SET is an open-source tool developed by Dave Kennedy and integrated into Kali Linux to perform social engineering attacks by exploiting human vulnerabilities instead of technical flaws.,uses:Phishing attacks via fake emails or websites,Targeting individuals or organizations to steal credentials or deliver malware,Creating fake login pages or infected media for phishing,components:Phishing Attacks:Create fake login pages mimicking real sites like Facebook or Google to harvest user credentials.,Spear Phishing:Targeted fake emails sent to specific individuals with malicious attachments or links.,Website Attack Vectors:Inject malicious JavaScript or exploit browser vulnerabilities via infected websites.,Java Applet Attacks:Embed Java applets in webpages to request user permission and exploit their system.,Mass Mailer Attack:Send mass fake emails with links or attachments appearing from trusted sources.,Credential Harvesting:Capture login data via fake pages that look like legitimate websites.,steps:Choose attack type from SET main menu e.g., Social Engineering Attacks, Website Vectors,Configure required options such as email address or fake URL,Execute the chosen attack scenario,strengths:Ease of Use:Text-based interface guides the user step-by-step, suitable even for beginners.,Flexibility:Highly customizable attacks based on the target.,Integration:Can be combined with Metasploit, BeEF, and others.,Target Precision:Effective in both mass and spear phishing scenarios.,dangerous_attacks:Phishing via fake login pages.,Spoofed emails sent to companies or sensitive targets.,Java Applet attacks leveraging old but effective methods.,conclusion:SET is a powerful social engineering toolkit widely used in penetration testing and cybersecurity education. Despite its strength, it must be used ethically and legally.",
+    "image": "/home/kali/Desktop/HARM/images/fbi.jpg",
+    "link": "https://www.youtube.com/watch?v=DWoPFpU5gaw&t=2s"
+  },
+  {
+    "title": "Video 10:How are hacks handled in Mr. Robot style",
+    "description": "This video explains the cyber risks of the Dark Web—like malware, phishing, Tor vulnerabilities, fake deals—and how to protect yourself using secure OS, VPN with Tor, avoiding suspicious links, antivirus scanning, and keeping your data private and software updated",
+    "image": "/home/kali/Desktop/HARM/images/mr.jpg",
+    "link": "https://www.youtube.com/watch?v=JNdo-oXiSc4"
+  },
+  {
+    "title": "Video 11:Creating a website on the dark web",
+    "description": "This report explains the Dark Web, its access methods (Tor/I2P), uses (privacy, crime, security tools), associated risks (malware, cybercrime, phishing), and how to stay safe using VPNs, security updates, safe browsing, and avoiding illegal activity",
+    "image": "/home/kali/Desktop/HARM/images/dark.jpg",
+    "link": "https://www.youtube.com/watch?v=P-brwmBnRg0&t=434s"
+  },
+  {
+    "title": "Video 12: Kali101 (Episode One)",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/kali101.jpg",
+    "link": "/home/kali/Desktop/HARM/images/kali101.jpg"
+  },
+  {
+    "title": "Video 13:Kali101 (Episode Two): SpiderFoot",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/spider.jpg",
+    "link": "https://www.youtube.com/watch?v=aqT726m1Jlo&t=76s"
+  },
+  {
+    "title": "Video 14:Kali 101 (Episode Three): Mr. Robot Protocol to Communicate with the Dark Army",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/mr2.jpg",
+    "link": "https://www.youtube.com/watch?v=qnhVVu4ix0s&t=2s"
+  },
+  {
+    "title": "Video 15:Hacking with AI in Kali Linux: How Artificial Intelligence Can Boost Your Skills",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/ai.jpg",
+    "link": "https://www.youtube.com/watch?v=3oYcYmD349c&t=4s"
+  },
+  {
+    "title": "Video 16:Dark Web Leak Collection Series 2 (Hell of Hackers)",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/heeeeeee.jpg",
+    "link": "https://www.youtube.com/watch?v=0mASP7dDoFs&t=2s"
+  },
+  {
+    "title": "Video 17:Proxychains4: Your Ultimate Guide to Anonymity, Internet Traffic Control, and Enhanced Security",
+    "description": "A tool that routes traffic through multiple proxies (SOCKS4, SOCKS5, HTTP) to hide IP, secure connections, support various proxy types, customizable chains, and compatible with most network apps",
+    "image": "/home/kali/Desktop/HARM/images/proxy.jpg",
+    "link": "https://www.youtube.com/watch?v=gCoN_4Rdo_U&t=5s"
+  },
+  {
+    "title": "Video 18:Snort3: Hackers' Worst Nightmare 💀 Part 1",
+    "description": "A powerful open-source IDS/IPS developed by Cisco that monitors, detects, and blocks cyber attacks like port scans, injections, and brute-force in real-time, with high-speed multi-threading, modern protocol support, and military-grade protection for networks",
+    "image": "/home/kali/Desktop/HARM/images/snort1.jpg",
+    "link": "https://www.youtube.com/watch?v=tyvwWkx0tvg&t=182s"
+  },
+  {
+    "title": "Video 19:Snort3: Rule Storage and Intrusion Detection Using Over 300 Rules and Tools",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/snort2.jpg",
+    "link": "https://www.youtube.com/watch?v=rxOI0Z_jilA&t=12s"
+  },
+  {
+    "title": "Video 20:Installing Havoc Framework and Opening a Port Using Playit via ProtonMail with Full Troubleshooting",
+    "description": "",
+    "image": "/home/kali/Desktop/HARM/images/hovoc.jpg",
+    "link": "https://www.youtube.com/watch?v=B3srhzupbb4&t=3s"
+  },
+  {
+    "title": "Video 21",
+    "description": "Description for video 21",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID21"
+  },
+  {
+    "title": "Video 22",
+    "description": "Description for video 22",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID22"
+  },
+  {
+    "title": "Video 23",
+    "description": "Description for video 23",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID23"
+  },
+  {
+    "title": "Video 24",
+    "description": "Description for video 24",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID24"
+  },
+  {
+    "title": "Video 25",
+    "description": "Description for video 25",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID25"
+  },
+  {
+    "title": "Video 26",
+    "description": "Description for video 26",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID26"
+  },
+  {
+    "title": "Video 27",
+    "description": "Description for video 27",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID27"
+  },
+  {
+    "title": "Video 28",
+    "description": "Description for video 28",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID28"
+  },
+  {
+    "title": "Video 29",
+    "description": "Description for video 29",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID29"
+  },
+  {
+    "title": "Video 30",
+    "description": "Description for video 30",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID30"
+  },
+  {
+    "title": "Video 31",
+    "description": "Description for video 31",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID31"
+  },
+  {
+    "title": "Video 32",
+    "description": "Description for video 32",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID32"
+  },
+  {
+    "title": "Video 33",
+    "description": "Description for video 33",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID33"
+  },
+  {
+    "title": "Video 34",
+    "description": "Description for video 34",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID34"
+  },
+  {
+    "title": "Video 35",
+    "description": "Description for video 35",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID35"
+  },
+  {
+    "title": "Video 36",
+    "description": "Description for video 36",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID36"
+  },
+  {
+    "title": "Video 37",
+    "description": "Description for video 37",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID37"
+  },
+  {
+    "title": "Video 38",
+    "description": "Description for video 38",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID38"
+  },
+  {
+    "title": "Video 39",
+    "description": "Description for video 39",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID39"
+  },
+  {
+    "title": "Video 40",
+    "description": "Description for video 40",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID40"
+  },
+  {
+    "title": "Video 41",
+    "description": "Description for video 41",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID41"
+  },
+  {
+    "title": "Video 42",
+    "description": "Description for video 42",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID42"
+  },
+  {
+    "title": "Video 43",
+    "description": "Description for video 43",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID43"
+  },
+  {
+    "title": "Video 44",
+    "description": "Description for video 44",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID44"
+  },
+  {
+    "title": "Video 45",
+    "description": "Description for video 45",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID45"
+  },
+  {
+    "title": "Video 46",
+    "description": "Description for video 46",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID46"
+  },
+  {
+    "title": "Video 47",
+    "description": "Description for video 47",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID47"
+  },
+  {
+    "title": "Video 48",
+    "description": "Description for video 48",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID48"
+  },
+  {
+    "title": "Video 49",
+    "description": "Description for video 49",
+    "image": "",
+    "link": "https://www.youtube.com/watch?v=VID49"
+  },
+  {
+    "title": "Video 50",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 51",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 52",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 53",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 54",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 55",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 56",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 57",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 58",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 59",
+    "description": "",
+    "image": "",
+    "link": ""
+  },
+  {
+    "title": "Video 60",
+    "description": "",
+    "image": "",
+    "link": ""
+  }
+]

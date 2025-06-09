@@ -1,0 +1,216 @@
+[
+  {
+    "course_title": "CEH v13 - AI Security Tools",
+    "videos": [
+      {
+        "title": "ANY.RUN",
+        "description": "Interactive malware analysis using AI",
+        "link": "https://any.run/",
+        "image": "/path/to/anyrun.jpg"
+      },
+      {
+        "title": "CAPE Sandbox",
+        "description": "Advanced malware analysis with machine learning",
+        "link": "https://github.com/kevoreilly/CAPEv2",
+        "image": "/path/to/cape.jpg"
+      },
+      {
+        "title": "MITRE ATT&CK Navigator",
+        "description": "Tracking AI-powered attacks",
+        "link": "https://mitre-attack.github.io/attack-navigator/",
+        "image": "/path/to/mitre.jpg"
+      },
+      {
+        "title": "Microsoft Video Authenticator",
+        "description": "Deepfake video detection",
+        "link": "https://www.microsoft.com/en-us/ai/ai-lab-video-authenticator",
+        "image": "/path/to/msauthenticator.jpg"
+      },
+      {
+        "title": "Deepware Scanner",
+        "description": "Fake video analysis tool",
+        "link": "https://deepware.ai/",
+        "image": "/path/to/deepware.jpg"
+      },
+      {
+        "title": "Sensity AI",
+        "description": "AI threat detection platform",
+        "link": "https://sensity.ai/",
+        "image": "/path/to/sensity.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - Cloud Pentesting",
+    "videos": [
+      {
+        "title": "Pacu",
+        "description": "AWS security testing framework",
+        "link": "https://github.com/RhinoSecurityLabs/pacu",
+        "image": "/path/to/pacu.jpg"
+      },
+      {
+        "title": "CloudBrute",
+        "description": "Cloud resource discovery tool",
+        "link": "https://github.com/0xsha/CloudBrute",
+        "image": "/path/to/cloudbrute.jpg"
+      },
+      {
+        "title": "ScoutSuite",
+        "description": "Multi-cloud security assessment",
+        "link": "https://github.com/nccgroup/ScoutSuite",
+        "image": "/path/to/scoutsuite.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - IoT Hacking",
+    "videos": [
+      {
+        "title": "Firmware Analysis Toolkit",
+        "description": "IoT firmware analysis platform",
+        "link": "https://github.com/attify/firmware-analysis-toolkit",
+        "image": "/path/to/fat.jpg"
+      },
+      {
+        "title": "JTAGulator",
+        "description": "Hardware interface testing tool",
+        "link": "https://www.grandideastudio.com/jtagulator/",
+        "image": "/path/to/jtagulator.jpg"
+      },
+      {
+        "title": "RouterSploit",
+        "description": "Router exploitation framework",
+        "link": "https://github.com/threat9/routersploit",
+        "image": "/path/to/routersploit.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - Modern App Pentesting",
+    "videos": [
+      {
+        "title": "FerretDB",
+        "description": "NoSQL database testing",
+        "link": "https://github.com/FerretDB/FerretDB",
+        "image": "/path/to/ferretdb.jpg"
+      },
+      {
+        "title": "Sliver",
+        "description": "Open-source C2 framework",
+        "link": "https://github.com/BishopFox/sliver",
+        "image": "/path/to/sliver.jpg"
+      },
+      {
+        "title": "Burp Suite 2023",
+        "description": "Advanced API hacking features",
+        "link": "https://portswigger.net/burp",
+        "image": "/path/to/burp.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - Car Hacking",
+    "videos": [
+      {
+        "title": "CANBus Triple",
+        "description": "CAN signal interception device",
+        "link": "https://canb.us/",
+        "image": "/path/to/canbus.jpg"
+      },
+      {
+        "title": "SocketCAN",
+        "description": "Linux CAN network tools",
+        "link": "https://github.com/linux-can/can-utils",
+        "image": "/path/to/socketcan.jpg"
+      },
+      {
+        "title": "CaringCaribou",
+        "description": "Automotive security testing",
+        "link": "https://github.com/CaringCaribou/caringcaribou",
+        "image": "/path/to/caringcaribou.jpg"
+      },
+      {
+        "title": "OpenVehicleDiag",
+        "description": "Vehicle diagnostic systems testing",
+        "link": "https://github.com/openvehiclediag",
+        "image": "/path/to/ovd.jpg"
+      },
+      {
+        "title": "UDSimulator",
+        "description": "Vehicle protocol simulator",
+        "link": "https://github.com/zombieCraig/UDSimulator",
+        "image": "/path/to/udsimulator.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - 5G Security",
+    "videos": [
+      {
+        "title": "Wireshark 4.0+",
+        "description": "5G NR packet analysis",
+        "link": "https://www.wireshark.org/",
+        "image": "/path/to/wireshark.jpg"
+      },
+      {
+        "title": "srsRAN",
+        "description": "Open-source 5G platform",
+        "link": "https://github.com/srsran/srsRAN",
+        "image": "/path/to/srsran.jpg"
+      },
+      {
+        "title": "5G Pentesting Framework",
+        "description": "5G core network testing",
+        "link": "https://github.com/5G-Pentesting",
+        "image": "/path/to/5gpentest.jpg"
+      },
+      {
+        "title": "Aerial",
+        "description": "5G signal analysis with SDR",
+        "link": "https://github.com/Explorerfreda/Aerial",
+        "image": "/path/to/aerial.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - Deepfake Tools",
+    "videos": [
+      {
+        "title": "DeepFaceLab",
+        "description": "Deepfake video creation",
+        "link": "https://github.com/iperov/DeepFaceLab",
+        "image": "/path/to/dfl.jpg"
+      },
+      {
+        "title": "FaceSwap",
+        "description": "Open-source face swapping",
+        "link": "https://github.com/deepfakes/faceswap",
+        "image": "/path/to/faceswap.jpg"
+      },
+      {
+        "title": "Wav2Lip",
+        "description": "Audio-video synchronization",
+        "link": "https://github.com/Rudrabha/Wav2Lip",
+        "image": "/path/to/wav2lip.jpg"
+      }
+    ]
+  },
+  {
+    "course_title": "CEH v13 - Evasion Tools",
+    "videos": [
+      {
+        "title": "Sliver",
+        "description": "C2 framework alternative",
+        "link": "https://github.com/BishopFox/sliver",
+        "image": "/path/to/sliver.jpg"
+      },
+      {
+        "title": "Chisel",
+        "description": "Advanced TCP/UDP tunneling",
+        "link": "https://github.com/jpillora/chisel",
+        "image": "/path/to/chisel.jpg"
+      }
+    ]
+  }
+]
