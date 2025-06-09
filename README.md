@@ -25,7 +25,7 @@ To run the project on any operating system, make sure you have:
 
 Install Pillow with:
 
-pip install pillow
+                pip install pillow
 
 
 ✅ On Kali Linux:
@@ -33,17 +33,17 @@ The program runs directly if Python is already installed.
 
 You may need to install Tkinter:
 
-sudo apt update
-sudo apt install python3-tk
+                sudo apt update
+           sudo apt install python3-tk
 
 ✅ On Windows:
 Make sure Python is installed with the “Add to PATH” option enabled.
 
 Open CMD and run:
 
-pip install pillow
+         pip install pillow
 
-python3 harm.py
+           python3 harm.py
 
 
  Social Media Links
@@ -53,8 +53,5 @@ https://www.youtube.com/@Harm1903
 
 https://t.me/Harm2890
 
-
-                                                                            
-                                                                            
-                                                                         With you was HARM. Peace, mercy, and blessings of God be upon you
+ With you was HARM Peace, mercy, and blessings of God be upon you
 
