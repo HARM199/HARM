@@ -36,11 +36,11 @@ The program runs directly if Python is already installed.
 
       sudo apt install git -y
 
-     git clone https://github.com/HARM199/HARM.git
+      git clone https://github.com/HARM199/HARM.git
     
-    cd HARM
+      cd HARM
     
-    python3 harm.py
+      python3 harm.py
 
 
            
