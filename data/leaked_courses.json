@@ -304,5 +304,68 @@
         "image": "/home/kali/Desktop/HARM/images/mal.jpeg"
       }
     ]
+  },
+  {
+    "course_title": "Hacking WiFi",
+    "videos": [
+      {
+        "title": "Hacking WiFi Full Course",
+        "description": "Complete course on WiFi hacking including all types of networks, basics, WPA/WPA2 cracking, advanced attacks, and bypassing security.",
+        "link": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "course_title": "Web Application Bug Bounty Hunter",
+    "videos": [
+      {
+        "title": "Bug Bounty - Part 1",
+        "description": "Basics of web application penetration testing",
+        "link": "",
+        "image": ""
+      },
+      {
+        "title": "Bug Bounty - Part 2",
+        "description": "Finding vulnerabilities in real targets",
+        "link": "",
+        "image": ""
+      },
+      {
+        "title": "Bug Bounty - Part 3",
+        "description": "Exploiting XSS, CSRF, and misconfigurations",
+        "link": "",
+        "image": ""
+      },
+      {
+        "title": "Bug Bounty - Part 4",
+        "description": "Advanced bug bounty hunting techniques",
+        "link": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "course_title": "SQL Injection",
+    "videos": [
+      {
+        "title": "SQL Injection - Part 1",
+        "description": "Introduction to SQL Injection attacks",
+        "link": "",
+        "image": ""
+      },
+      {
+        "title": "SQL Injection - Part 2",
+        "description": "Exploiting SQLi vulnerabilities",
+        "link": "",
+        "image": ""
+      },
+      {
+        "title": "SQL Injection - Part 3",
+        "description": "Advanced SQL Injection techniques",
+        "link": "",
+        "image": ""
+      }
+    ]
   }
 ]
